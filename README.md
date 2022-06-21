@@ -11,4 +11,3 @@
 ### Temperatura - convertendo temperatura em graus Celsius para graus Fahrenheit e vice-versa
 - temperatura_1_main.dart - contém a função main;
 - temperatura_2_functions.dart - contém funções utilizadas;
-
