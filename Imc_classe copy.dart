@@ -1,3 +1,4 @@
+// Classe com atributos e método
 import 'dart:math';
 
 class Pessoa {

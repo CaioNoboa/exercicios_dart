@@ -1,6 +1,5 @@
-import 'Imc_funcoes.dart';
-
 // Calculo do IMC utlizando apenas com funções
+import 'Imc_funcoes.dart';
 
 main() {
   String nome = pegarNome();

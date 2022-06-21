@@ -1,7 +1,6 @@
+// Calculo do IMC utilizando classe e funções
 import 'Imc_classe.dart';
 import 'Imc_funcoes.dart';
-
-// Calculo do IMC utilizando classe e funções
 
 main() {
   Pessoa person = Pessoa(
