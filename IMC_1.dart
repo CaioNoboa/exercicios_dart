@@ -1,4 +1,4 @@
-import 'IMC_funcoes.dart';
+import 'Imc_funcoes.dart';
 
 // Calculo do IMC utlizando apenas com funções
 
