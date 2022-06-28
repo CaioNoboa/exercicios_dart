@@ -12,9 +12,10 @@
 - temperatura_1_main.dart - contém a função main;
 - temperatura_2_functions.dart - contém funções utilizadas;
 
-### Convertendo cores em rgb para hexadecimal
-- rgb_to_hexadecimal.dart - contém a estruturação e também o uso da parte lógica;
+### Convertendo cores em RGB para hexadecimal e vice-versa
+- rgb_to_hexadecimal.dart - transformando cores em rgb para hexadecimal;
 - rgb_to_hexadecimal_2.dart - contém a parte lógica;
+- hexadecimal_to_rgb.dart - transformando cores em hexadecimal para rgb;
 
 ### Outros exercícios:
 - lista_de_compras.dart - ao rodar no terminal, é possível fazer uma lista de compras e verificar a quantidade e os itens adicionados;
@@ -22,4 +23,6 @@
 - caracteres_medianos_String.dart - função que retorna caracteres medianos de uma palavra;
 - contagem_caracteres_que_repetem.dart - função que retorna o número de caracteres que se repetem em uma dada String;
 - ultimos_n_numeros_pares.dart - os últimos 'n' números pares de uma Array;
-- array_ascending_length_subarrays.dart - função que retorna uma Array com subarrays de tamanho crescente.
+- array_ascending_length_subarrays.dart - função que retorna uma Array com subarrays de tamanho crescente;
+- ultimos_n_numeros_pares.dart - dado um número, retornará true caso tenha raiz quadrada inteira;
+- soma_num_positivos.dart - dada uma array com valores numéricos diversos, somar apenas os números positivos.
