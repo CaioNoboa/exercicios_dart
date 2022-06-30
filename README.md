@@ -25,4 +25,5 @@
 - ultimos_n_numeros_pares.dart - os últimos 'n' números pares de uma Array;
 - array_ascending_length_subarrays.dart - função que retorna uma Array com subarrays de tamanho crescente;
 - ultimos_n_numeros_pares.dart - dado um número, retornará true caso tenha raiz quadrada inteira;
-- soma_num_positivos.dart - dada uma array com valores numéricos diversos, somar apenas os números positivos.
+- soma_num_positivos.dart - dada uma array com valores numéricos diversos, somar apenas os números positivos;
+- fatorial_recursao.dart - calculando o fatorial de um número a partir de uma função recursiva.
