@@ -26,4 +26,7 @@
 - array_ascending_length_subarrays.dart - função que retorna uma Array com subarrays de tamanho crescente;
 - ultimos_n_numeros_pares.dart - dado um número, retornará true caso tenha raiz quadrada inteira;
 - soma_num_positivos.dart - dada uma array com valores numéricos diversos, somar apenas os números positivos;
-- fatorial_recursao.dart - calculando o fatorial de um número a partir de uma função recursiva.
+- fatorial_recursao.dart - calculando o fatorial de um número a partir de uma função recursiva;
+- accum.dart - dada uma string, p.ex., 'abCd', deverá ser retornado 'A-Bb-Ccc-Dddd';
+- stairs.dart - contando degraus;
+- sum_hour_min_digits.dart - somando os dígitos de horas e minutos;
